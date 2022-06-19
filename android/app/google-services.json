@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264578376589",
+    "project_id": "vaksinapp-4124b",
+    "storage_bucket": "vaksinapp-4124b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264578376589:android:ad97927e31133126b493c4",
+        "android_client_info": {
+          "package_name": "com.delixha.vaksinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264578376589-114lfcc5u2168t7tjtsqtha8cp33g44g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delixha.vaksinapp",
+            "certificate_hash": "dafdb54e758e032ab92bb45823b21f57c5418cbc"
+          }
+        },
+        {
+          "client_id": "264578376589-6273mecqhdjimcommu9rt3546oj2u3fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0tArXOVmtD7GuL5qYWMe-cLb_IktWIfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264578376589-6273mecqhdjimcommu9rt3546oj2u3fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
